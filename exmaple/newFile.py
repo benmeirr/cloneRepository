@@ -4,7 +4,6 @@ def print_number():
         print(f'{i}')
 
 
+
 if __name__ == '__main__':
-    print_number()
-    print_number()
     print_number()
