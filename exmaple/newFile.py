@@ -6,3 +6,5 @@ def print_number():
 
 if __name__ == '__main__':
     print_number()
+    print_number()
+    print_number()
